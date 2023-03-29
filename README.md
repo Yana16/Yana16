@@ -35,7 +35,7 @@
   + [LinkedIn]()
   + [Discord]()
 
-:eyes: **YOU CAN CONTACT ME**
+:eyes: **CONTACTS**
   + :e-mail: [yana.vozniuk@ukr.net](yana.vozniuk@ukr.net)
   + :pager: [Telegram]()
   
