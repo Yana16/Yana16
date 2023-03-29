@@ -28,5 +28,13 @@
   + [Phonebook](https://github.com/Yana16/goit-react-hw-08-phonebook)
   + [Movie](https://github.com/Yana16/goit-react-hw-05-movie)
   + [Filmoteka](https://github.com/Yana16/Project-Filmoteka)
-  + []()
+  + [IceCream](https://github.com/Yana16/IceCream)
+
+:wink: **FOLLOW ME**
+
++ [LinkedIn]()
++ [Discord]()
+
+  **YOU CAN CONTACT ME**
++ :e-mail: [yana.vozniuk@ukr.net](yana.vozniuk@ukr.net)
   
