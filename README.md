@@ -36,6 +36,6 @@
   + [Discord]()
 
 :eyes: **CONTACTS**
-  + :e-mail: [yana.vozniuk@ukr.net](yana.vozniuk@ukr.net)
+  + :e-mail: [yana.vozniuk@ukr.net](mailto: yana.vozniuk@ukr.net)
   + :pager: [Telegram]()
   
