@@ -12,5 +12,21 @@
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   
   
+  :telescope: **PROJECTS**
   
+  + [WebStudio](https://github.com/Yana16/goit-markup-hw-07)
+  + [Optional Cases](https://github.com/Yana16/goit-js-hw-06)
+  + [Image gallery, SimpleLightbox library](https://github.com/Yana16/goit-js-hw-07)
+  + [Image gallery, Video playback, Video playback](https://github.com/Yana16/goit-js-hw-08)
+  + [Color switcher, Countdown timer, Promise generator](https://github.com/Yana16/goit-js-hw-09)
+  + [Search Country](https://github.com/Yana16/goit-js-hw-10)
+  + [Search Image](https://github.com/Yana16/goit-js-hw-11)
+  + [Components](https://github.com/Yana16/goit-react-hw-01-components)
+  + [Feedback](https://github.com/Yana16/goit-react-hw-02-feedback)
+  + [Image Finder](https://github.com/Yana16/goit-react-hw-03-image-finder)
+  + [Search Images and Photos](https://github.com/Yana16/goit-react-hw-04-images)
+  + [Phonebook](https://github.com/Yana16/goit-react-hw-08-phonebook)
+  + [Movie](https://github.com/Yana16/goit-react-hw-05-movie)
+  + [Filmoteka](https://github.com/Yana16/Project-Filmoteka)
+  + []()
   
