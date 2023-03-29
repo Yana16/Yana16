@@ -1,6 +1,6 @@
 :toolbox: **SKILLS and TOOLS**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -12,7 +12,7 @@
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   
   
-  :telescope: **PROJECTS**
+:telescope: **PROJECTS**
   
   + [WebStudio](https://github.com/Yana16/goit-markup-hw-07)
   + [Optional Cases](https://github.com/Yana16/goit-js-hw-06)
@@ -32,10 +32,10 @@
 
 :wink: **FOLLOW ME**
 
-+ [LinkedIn]()
-+ [Discord]()
+  + [LinkedIn]()
+  + [Discord]()
 
-  **YOU CAN CONTACT ME**
-+ :e-mail: [yana.vozniuk@ukr.net](yana.vozniuk@ukr.net)
-+ :pager: [Telegram]()
+:eyes: **YOU CAN CONTACT ME**
+  + :e-mail: [yana.vozniuk@ukr.net](yana.vozniuk@ukr.net)
+  + :pager: [Telegram]()
   
