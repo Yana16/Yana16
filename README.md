@@ -32,7 +32,7 @@
 
 :wink: **FOLLOW ME**
 
-  + [LinkedIn](www.linkedin.com/in/yana-vozniuk-419678260)
+  + [LinkedIn](https://linkedin.com/in/yana-vozniuk-419678260)
   + [Discord]()
 
 :eyes: **CONTACTS**
