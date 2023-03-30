@@ -17,7 +17,7 @@
   + [WebStudio](https://github.com/Yana16/goit-markup-hw-07)
   + [Optional Cases](https://github.com/Yana16/goit-js-hw-06)
   + [Image gallery, SimpleLightbox library](https://github.com/Yana16/goit-js-hw-07)
-  + [Image gallery, Video playback, Video playback](https://github.com/Yana16/goit-js-hw-08)
+  + [Image gallery, Video playback, Feedback Form](https://github.com/Yana16/goit-js-hw-08)
   + [Color switcher, Countdown timer, Promise generator](https://github.com/Yana16/goit-js-hw-09)
   + [Search Country](https://github.com/Yana16/goit-js-hw-10)
   + [Search Image](https://github.com/Yana16/goit-js-hw-11)
