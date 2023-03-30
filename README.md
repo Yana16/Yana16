@@ -37,5 +37,5 @@
 
 :eyes: **CONTACTS**
   + :e-mail: [yana.vozniuk@ukr.net](mailto:yana.vozniuk@ukr.net)
-  + :pager: [Telegram]()
+  + :pager: [Telegram](https://t.me/Seona16)
   
